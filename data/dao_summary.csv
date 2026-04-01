@@ -1,0 +1,31 @@
+dao,space_id,proposal_id,proposal_title,num_voters,total_voting_power,gini_coefficient,top10_share
+ENS,ens.eth,0xf0ad5ad5a1ee353a65424a83e74f2b8846b16885a4be99af26b5162bfa78c644,[6.31] [Temp Check] Delegation Incentives Program,105,1485803.94,0.875,0.7534
+ENS,ens.eth,0x8d16992852893f05b23b0e26de27c9e6b2a8de1193c991e14f81ef13cd943517,[6.26] [Social] ENS Retro: An ENS DAO Retrospective & Stakeholder Analysis,109,1893160.96,0.8588,0.6908
+ENS,ens.eth,0xbc44d9714ee818da49c25998cabdbe745f939fef74923255c3571a00e8977e5d,[6.25] [Social] Replace the Working Groups with the ENS Admin Panel,109,2145796.91,0.8397,0.6429
+ENS,ens.eth,0x7b603c5ada65cfcdbdfec9a33352edf731615fe96fbcc09daa7aa97b327e15ce,[6.24.3] [Social] Funding Request - ENS Public Goods Working Group Term 6 (Oct. ,88,1250052.05,0.8783,0.8308
+ENS,ens.eth,0x9b3f5463e52aadc35155e686f8416297b24e6c7e30cb527747e61cf17b42a5f6,[6.24.2] [Social] Funding Request: ENS Ecosystem Working Group (Oct. Window),88,1375141.42,0.8618,0.7652
+Gitcoin,gitcoindao.eth,0x5da28c1533e828590e427366aec43cc1fac3a18525a285b0f85d6dac93111709,[Proposal] Gitcoin × Octant Yield-Powered Matching Pilot,481,4182033.81,0.9942,0.9992
+Gitcoin,gitcoindao.eth,0x7b139f41e2ebce0bf0e833f85943e7c6642a640dba6facc526524878ddf270a1,Gitcoin DAO 2026 Budget Request,541,3104968.38,0.9964,0.9988
+Gitcoin,gitcoindao.eth,0x1c2875456a8696d35c8bf0ec1477500efcaa6f710e3ee1207832899d99941b0b,[Proposal]: Disengagement of Avantgarde from Matching Pool Asset Management & St,484,3668385.47,0.9949,0.999
+Gitcoin,gitcoindao.eth,0x3cbec1d4a3d46e45f0abebe4b3c9b3cc621026293b50ed5f8fa6df8faa558003,[Proposal]: Disengagement of Avantgarde as Treasury Asset Manager,482,3668384.37,0.9949,0.999
+Gitcoin,gitcoindao.eth,0x563e16e0e9b5cd722bff424624f391c5a160a7323a56434deca782bfc7c97d22,[TEMP CHECK] Withdrawing remaining fees from PGN back to the Gitcoin Foundation ,673,3442842.71,0.9958,0.9984
+Uniswap,uniswapgovernance.eth,0x48e56786fd4ab27c5b089b45be1e914d4a3a0f9d067ac51eff0b26a882e49bde,[RFC] Governance Process Upgrade: Establishing a Statute of Limitations for Temp,133,5753874.47,0.9804,0.998
+Uniswap,uniswapgovernance.eth,0x0242a914c60945d25873d2a98c6abd9f69cb889c6616e27f3c0ab759f9e8d783,[Temp Check] Protocol Fee Expansion: Eight More Chains and Remaining Mainnet V3 ,150,35153339.79,0.958,0.9897
+Uniswap,uniswapgovernance.eth,0x1086839122667be04c0eec25ba224fe4ac1b990383ddfe05b80ce201a06b4abf,"Strategic Renewal of Gnosis, Linea, and Mantle Deployments",449,13713881.87,0.9879,0.9982
+Uniswap,uniswapgovernance.eth,0x58d854c1f2468db6b67baab026cca1329c7bcaa5bf834146aa7563a5b45ad09f,UNIfication,307,63029954.86,0.9723,0.8907
+Uniswap,uniswapgovernance.eth,0x3836142b24294e065fc9f26e24c70732dce53f15361f50261297bc206acda441,Uniswap Community Proposal Factory,166,11265964.5,0.971,0.9979
+Arbitrum,arbitrumfoundation.eth,0x703ef86b79590b07f770dd2369666085e112e2a8998a7e2f8011ed755611968c,Automate the Consolidation of Idle Funds into the Treasury Management Portfolio,1000,185137924.4,0.9857,0.7281
+Arbitrum,arbitrumfoundation.eth,0x3ac48360cb2cf6f921e391a97416a53c8ca442e3a621a9f7bb406719a8f8034d,[Constitutional] DVP Quorum for ArbitrumDAO: Implementation & Parameters,1000,214665730.61,0.9833,0.6513
+Arbitrum,arbitrumfoundation.eth,0xa06500740b56c647f25bd3edba80bf05b00140afe99d6b0d27c0f1dc93287901,Rewarding Active Delegates (RAD) Program,1000,232372333.5,0.9825,0.6373
+Arbitrum,arbitrumfoundation.eth,0x12bad84219d04c54cd72231ad8fe883499e85c14762919a06aaa7a251d64b8da,AGV - 2026 Council Elections,1000,184299515.31,0.982,0.6412
+Arbitrum,arbitrumfoundation.eth,0x0a3a7b84c7c01cc0feb8a7fad662cbf1f5aeb1b089b205ce412e2bc01d99c504,John Kennedy reconfirmation for AGV council,1000,186880651.54,0.981,0.6244
+Optimism,opcollective.eth,0x88583c43b196ec86cee45345611b582108f1d6933ab688a7cae992a6baa552a6,Title: Special Voting Cycle #9b: Protocol Delegation Elections ,1000,14255059.97,0.953,0.7296
+Optimism,opcollective.eth,0xa9457a5344747a6c272de786419fc7a4e83fcf0f927ef9b1ce767452faa9b453,Title: Special Voting Cycle #9b: Grants Council Elections - Growth Experiments ,1000,16117960.04,0.9556,0.7083
+Optimism,opcollective.eth,0xdcff47b93fb17a11411bda1809e22cba72e5131d31624e4c0f2b9dbee6811f5c,Title: Special Voting Cycle #9b: Grants Council Elections - Builders ,1000,13543293.38,0.9541,0.7596
+Optimism,opcollective.eth,0x3a1f9a30c47d6060f3b732404f3a6b2ceba3da07be0505ef0f93b6dab7fa3185,Special Voting Cycle #9a: Protocol Delegation Program,1000,15108350.32,0.9596,0.7707
+Optimism,opcollective.eth,0x37fc8a6ae60cff2e4e72fe9c0567f739bb9a78262c2ada236892fcbc7af2c32d,Special Voting Cycle #9a: Grants Council,1000,15007065.8,0.9591,0.7755
+Lido,lido-snapshot.eth,0x7f28fddde63f492de5c9dce4f992b6e0565328f258f27aa769e50520dfd1be0b,Delegate Incentivization Program 2.0,84,60216713.07,0.8922,0.91
+Lido,lido-snapshot.eth,0xd32eab4ce41e2754d8a51fdf89bd9f4eb43ecbeb7b60d0e93ce84bc3e4d4c8a3,Authorize $5M DAO Treasury Allocation to Lido Earn ETH and USD Vaults,84,62518705.44,0.8852,0.8866
+Lido,lido-snapshot.eth,0x60d9126fed2a492a22ef53942a16a7a8a7ec3a576ffc2b2367ebcec8eb6baa30,Should Stakin continue in the Curated and DVT sets following its acquisition by ,83,62518456.33,0.8838,0.8866
+Lido,lido-snapshot.eth,0x8b8619f09213b868708b25cb2512023234e5e160cba5c291f4e9d944d2ccd3fa,DVT & DVV Incentive Allocation Changes,91,54535406.38,0.9013,0.8863
+Lido,lido-snapshot.eth,0xb4a35720b03f4c888c2fb41ab66ed324262d7a5b4696ffc3ee20bb35ebb0df6f,Rewards Share Committee Reform,106,54577800.18,0.9151,0.8856
